@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Modern Greeter
+Comment=Modern GTK3 LightDM Greeter
+Exec=modern-greeter
+Type=Application
+
